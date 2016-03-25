@@ -1,5 +1,5 @@
 # p-n-files
 
-programming neccessary files
+projects neccessary files
 
 stdafx & .gitignore & cmakelists
